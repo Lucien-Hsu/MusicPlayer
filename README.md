@@ -2,7 +2,7 @@
 本專案實作一個基本的音樂播放器 APP，內部音樂來自 YouTube Studio 中之無版權音樂。
 # Demo 影片
 [![Watch the video](https://img.youtube.com/vi/IeUZ3_C_86s/maxresdefault.jpg)](https://youtu.be/IeUZ3_C_86s)
-## 技術
+## 使用技術
 * ListView 呈現音樂清單。
 * 在 Activity-lifecycle 中進行相關處理，達到在旋轉螢幕及背景執行時仍能播放音樂。
 * 以 SharedPreferences 儲存播放的歌曲、時間點、播放狀態，在關閉重啟 APP 後仍能從上次停止播放的位置繼續播放。
