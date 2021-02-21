@@ -1,5 +1,5 @@
 # MusicPlayer
-本專案實作一個基本的音樂播放器，內部音樂來自 YouTube Studio 中之無版權音樂。
+本專案實作一個基本的音樂播放器 APP，內部音樂來自 YouTube Studio 中之無版權音樂。
 # Demo 影片
 [![Watch the video](https://img.youtube.com/vi/IeUZ3_C_86s/maxresdefault.jpg)](https://youtu.be/IeUZ3_C_86s)
 ## 技術
