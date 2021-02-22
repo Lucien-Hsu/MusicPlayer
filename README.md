@@ -3,6 +3,7 @@
 # Demo 影片
 [![Watch the video](https://img.youtube.com/vi/IeUZ3_C_86s/maxresdefault.jpg)](https://youtu.be/IeUZ3_C_86s)
 ## 使用技術
+* MediaPlayer
 * ListView 呈現音樂清單。
 * 在 Activity-lifecycle 中進行相關處理，達到在旋轉螢幕及背景執行時仍能播放音樂。
 * 以 SharedPreferences 儲存播放的歌曲、時間點、播放狀態，在關閉重啟 APP 後仍能從上次停止播放的位置繼續播放。
